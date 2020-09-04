@@ -1,5 +1,4 @@
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +8,7 @@
 
 <body>
     <div class="container">
-       
+    
             <div class="chatbox">
                     <div class="header">
                         <h4> <img src='img/perfil.jpg' class='imgRedonda'/> CoronaBot </h4>
@@ -39,7 +38,7 @@
     
             <SCRIPT LANGUAGE="JavaScript">
         function mi_alerta () {
-        alert ("CREADO POR:"+
+        alert ("CREADO POR :"+
                "\n"+
                "\nHUGO ANDRADE");
         }
