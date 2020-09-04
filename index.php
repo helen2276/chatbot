@@ -37,10 +37,10 @@
     <script src="app.js"></script>
     
             <SCRIPT LANGUAGE="JavaScript">
-        function mi_alerta () {
-        alert ("CREADO POR :"+
-               "\n"+
-               "\nHUGO ANDRADE");
+                function mi_alerta () {
+                alert ("CREADO POR :"+
+                    "\n"+
+                    "\nHUGO ANDRADE");
         }
         </SCRIPT>
         
