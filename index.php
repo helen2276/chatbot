@@ -1,22 +1,26 @@
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatBot coronabot</title>
+    <title>Coronabot unab</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
+    <br>
+    <div align="center"><h1 class="h1">Bienvenido al coronaBot unab </h1></div>
     <div class="container">
-    
+      
             <div class="chatbox">
                     <div class="header">
-                        <h4> <img src='img/perfil.jpg' class='imgRedonda'/> CoronaBot </h4>
+                        <h4> <img src='img/logounab.png' class='imgRedonda'/> CoronaBot Unab</h4>
                                     
                     </div>
+
                     
                         <div class="body" id="chatbody">
-                        <p class="alicia">Hola! soy CoronaBot, Estoy para responder preguntas relacionadas con coronavirus. Espero poder ayudarte.</p>
+                        <p class="alicia">Hola! soy CoronaBot unab, Estoy para responder preguntas relacionadas con coronavirus. Espero poder ayudarte.</p>
                             <div class="scroller"></div>
                         </div>
 
@@ -37,10 +41,10 @@
     <script src="app.js"></script>
     
             <SCRIPT LANGUAGE="JavaScript">
-                function mi_alerta () {
-                alert ("CREADO POR :"+
-                    "\n"+
-                    "\nHUGO ANDRADE");
+        function mi_alerta () {
+        alert ("CREADO POR"+
+               "\n"+
+               "\nROMEO, GABY Y HUGO");
         }
         </SCRIPT>
         

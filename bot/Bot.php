@@ -2,7 +2,7 @@
 class Bot
 {
     private $name = "CoronaBot";
-    private $gender = "Bot";
+    private $gender = "soy un robot";
 
     public function getName()
     {
